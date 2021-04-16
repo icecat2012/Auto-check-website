@@ -1,4 +1,4 @@
-# Auto_check_website
+# Auto check website
 The program will automatically check a website every 20 minutes. If the webpage return code is not 'ok', the process will send an alarm email or open a Youtube page. Users can customize the checking period.
 
 ## What users need to do
